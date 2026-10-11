@@ -97,7 +97,7 @@ Desktop equipment requiring a rack adapter, rack cabinets, shelves and mounting 
 | [USW-Pro-XG-Aggregation](https://techspecs.ui.com/unifi/switching/usw-pro-xg-aggregation) | Switch | 1U | 32 |
 | [USW-WAN](https://techspecs.ui.com/unifi/switching/usw-wan) | Switch | 1U | 4 |
 | [USW-WAN-RJ45](https://techspecs.ui.com/unifi/switching/usw-wan-rj45) | Switch | 1U | 4 |
-| [UXG-Enterprise](https://techspecs.ui.com/unifi/accessories/uxg-enterprise) | Other | 1U | 6 |
+| [UXG-Enterprise](https://techspecs.ui.com/unifi/accessories/uxg-enterprise) | Router | 1U | 6 |
 | [UXG-Pro](https://techspecs.ui.com/unifi/cloud-gateways/uxg-pro) | Router | 1U | 4 |
 | [US-16-150W](https://dl.ui.com/qsg/US-16-150W/US-16-150W_EN.html) | Switch | 1U | 18 |
 | [US-16-XG](https://dl.ui.com/qsg/US-16-XG/US-16-XG_EN.html) | Switch | 1U | 16 |

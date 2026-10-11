@@ -28,6 +28,7 @@ class CatalogTests(unittest.TestCase):
   self.assertEqual((ck['widthMm'],ck['depthMm'],ck['heightMm']),(481.4,787,43.7))
   self.assertEqual(self.models['envr']['height'],3)
   self.assertNotIn('usp-pdu-hd',self.models)
+  self.assertEqual(self.models['uxg-enterprise']['kind'],'Router')
  def test_image_integrity(self):
   for key,s in self.sources.items():
    self.assertIn('front',s['images'])

@@ -14371,7 +14371,7 @@
       "name": "Gateway Enterprise",
       "manufacturer": "Ubiquiti",
       "model": "UXG-Enterprise",
-      "kind": "Other",
+      "kind": "Router",
       "height": 1,
       "ports": 6,
       "widthMm": 442.4,
