@@ -1,0 +1,62 @@
+[
+  {
+    "id": "udm-pro-max",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/udm-pro-max",
+    "images": {
+      "front": {
+        "path": "images/udm-pro-max/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/401190d7-6a49-4c2e-bef1-7fe087d2b6b6/c9cbb66b-7e7e-4ced-a4e3-1fa93cad3660.png",
+        "sha256": "6bde0bba306869bf3b8a5debcb6263d88094f4eaf41a8980d29ff149518eda6a",
+        "treatment": "Unmodified manufacturer asset"
+      },
+      "rear": {
+        "path": "images/udm-pro-max/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/401190d7-6a49-4c2e-bef1-7fe087d2b6b6/a65ebecc-eb24-45ee-bfa6-6be9108453d4.png",
+        "sha256": "b071b35c27efad18231811b6192b4e7ac96223e5e8bb91d50d67e2c36806b5c1",
+        "treatment": "Unmodified manufacturer asset"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-max-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-max-24-poe",
+    "images": {
+      "front": {
+        "path": "images/usw-pro-max-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/4abcc76a-18d7-49b7-8ce8-047f318049d2.png",
+        "sha256": "29e949d3cd1cd5c2f33abc58525473b3fed82b7c231944dc5908c5f212826ab4",
+        "treatment": "Unmodified manufacturer asset"
+      },
+      "rear": {
+        "path": "images/usw-pro-max-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/6eb797e1-6121-411c-bc27-73c01a1450fd.png",
+        "sha256": "aee2fb8109dc8d7435af302273488b7d5eae2db3837726685965c83819217be8",
+        "treatment": "Unmodified manufacturer asset"
+      }
+    }
+  },
+  {
+    "id": "usw-aggregation",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-aggregation",
+    "images": {
+      "front": {
+        "path": "images/usw-aggregation/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1c748fb1-b4df-43ef-83e0-d5ed26f9db7c/78dc5054-a468-401c-ac2a-2a00930c96ff.png",
+        "sha256": "ed3cce07acab50e802e1ac5b8bd942ecbe87caafc23271a42d37376ae0ee20fd",
+        "treatment": "Unmodified manufacturer asset"
+      },
+      "rear": {
+        "path": "images/usw-aggregation/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1c748fb1-b4df-43ef-83e0-d5ed26f9db7c/2aac163e-c604-4e55-9489-c706e60d0bd7.png",
+        "sha256": "4dbb4f3a7b6b6de494fd7ff88083bbf517ac1ec4221a1c27dc2fda23321105f3",
+        "treatment": "Unmodified manufacturer asset"
+      }
+    }
+  }
+]

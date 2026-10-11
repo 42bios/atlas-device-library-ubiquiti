@@ -1,0 +1,382 @@
+{
+  "version": 1,
+  "devices": [
+    {
+      "id": "udm-pro-max",
+      "name": "Dream Machine Pro Max",
+      "manufacturer": "Ubiquiti",
+      "model": "UDM-Pro-Max",
+      "kind": "Router",
+      "height": 1,
+      "ports": 11,
+      "widthMm": 442.4,
+      "depthMm": 285.6,
+      "heightMm": 43.7,
+      "interfaces": [
+        {
+          "name": "1",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 1"
+        },
+        {
+          "name": "2",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 2"
+        },
+        {
+          "name": "3",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 3"
+        },
+        {
+          "name": "4",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 4"
+        },
+        {
+          "name": "5",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 5"
+        },
+        {
+          "name": "6",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 6"
+        },
+        {
+          "name": "7",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 7"
+        },
+        {
+          "name": "8",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": [],
+          "label": "LAN 8"
+        },
+        {
+          "name": "9",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": [],
+          "label": "WAN 9"
+        },
+        {
+          "name": "10",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": [],
+          "label": "WAN 10"
+        },
+        {
+          "name": "11",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": [],
+          "label": "LAN 11"
+        }
+      ],
+      "frontImage": "images/udm-pro-max/front.png",
+      "rearImage": "images/udm-pro-max/rear.png",
+      "notes": "19-inch rack mount, 1U; chassis width excludes rack ears. Network port count includes SFP+ uplinks, excludes power/reset/management display. Port speed records maximum supported hardware speed. Source: https://techspecs.ui.com/unifi/cloud-gateways/udm-pro-max"
+    },
+    {
+      "id": "usw-pro-max-24-poe",
+      "name": "Pro Max 24 PoE",
+      "manufacturer": "Ubiquiti",
+      "model": "USW-Pro-Max-24-PoE",
+      "kind": "Switch",
+      "height": 1,
+      "ports": 26,
+      "widthMm": 442,
+      "depthMm": 325,
+      "heightMm": 44,
+      "interfaces": [
+        {
+          "name": "1",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "2",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "3",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "4",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "5",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "6",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "7",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "8",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "9",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "10",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "11",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "12",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "13",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "14",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "15",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "16",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 1000,
+          "ips": []
+        },
+        {
+          "name": "17",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "18",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "19",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "20",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "21",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "22",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "23",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "24",
+          "type": "Ethernet",
+          "connector": "RJ45",
+          "speedMbps": 2500,
+          "ips": []
+        },
+        {
+          "name": "25",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "26",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        }
+      ],
+      "frontImage": "images/usw-pro-max-24-poe/front.png",
+      "rearImage": "images/usw-pro-max-24-poe/rear.png",
+      "notes": "19-inch rack mount, 1U; chassis width excludes rack ears. Network port count includes SFP+ uplinks, excludes power/reset/management display. Port speed records maximum supported hardware speed. Source: https://techspecs.ui.com/unifi/switching/usw-pro-max-24-poe"
+    },
+    {
+      "id": "usw-aggregation",
+      "name": "Aggregation",
+      "manufacturer": "Ubiquiti",
+      "model": "USW-Aggregation",
+      "kind": "Switch",
+      "height": 1,
+      "ports": 8,
+      "widthMm": 442,
+      "depthMm": 120,
+      "heightMm": 43.7,
+      "interfaces": [
+        {
+          "name": "1",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "2",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "3",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "4",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "5",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "6",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "7",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        },
+        {
+          "name": "8",
+          "type": "Fiber",
+          "connector": "SFP+",
+          "speedMbps": 10000,
+          "ips": []
+        }
+      ],
+      "frontImage": "images/usw-aggregation/front.png",
+      "rearImage": "images/usw-aggregation/rear.png",
+      "notes": "19-inch rack mount, 1U; chassis width excludes rack ears. Network port count includes SFP+ uplinks, excludes power/reset/management display. Port speed records maximum supported hardware speed. Source: https://techspecs.ui.com/unifi/switching/usw-aggregation"
+    }
+  ]
+}
