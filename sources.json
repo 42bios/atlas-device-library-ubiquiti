@@ -1,41 +1,1504 @@
 [
   {
+    "id": "cloud-key-enterprise",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/accessories/cloud-key-enterprise",
+    "formFactor": "Rack Mount (1U)",
+    "manufacturerDimensions": "787 x 43.7 x 481.4 mm\n(31 x 1.7 x 19\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "10G SFP+",
+        1
+      ],
+      [
+        "MGMT",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/cloud-key-enterprise/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/93fdc127-8fe8-4f0e-a677-f3d8b9460fba/22555e3c-4602-44dd-840f-c02b5175619d.png",
+        "sha256": "a45cfcb93a38129c6ff29983d222ee089f02ea8e2ba23ff0c062b7d2af779628",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/cloud-key-enterprise/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/93fdc127-8fe8-4f0e-a677-f3d8b9460fba/2696845b-6120-4280-b3d6-cd264168c013.png",
+        "sha256": "a036084fc0725c02e594393d551c33e4d04346541407d453c8f1eb76fb9c423e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "eav-fiber",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/eav-fiber",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 480 x 43.7 mm \n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "10G SFP+",
+        20
+      ],
+      [
+        "100G QSFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/eav-fiber/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b6dd112b-bedd-4089-8831-c43a1241448a/4e0eea7c-7e9f-477d-a0bb-9f577ebf1b67.png",
+        "sha256": "45c816475ab0490108ebd6b2204f77ad79717411599fff35a4e7e965b10a060f",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/eav-fiber/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b6dd112b-bedd-4089-8831-c43a1241448a/9d1362f1-c6dd-4f5f-a91a-496019fabf18.png",
+        "sha256": "5156f90ebdf99bf8d8562cda506a0ac957bb8ff969fd4cedc09f4dd5cd7d4d3e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "eav-xg-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/eav-xg-24-poe",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 480 x 43.7 mm \n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "10 GbE RJ45",
+        24
+      ],
+      [
+        "100G QSFP28",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/eav-xg-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/d7832d85-03a3-4d3f-a935-e9ed5d4f7b8f/c6be6267-a892-428a-a967-17b7997b6238.png",
+        "sha256": "7be07434b30b61dd5d37858a659307bd47c3bc2ec35ce07da390cd3330932202",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/eav-xg-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/d7832d85-03a3-4d3f-a935-e9ed5d4f7b8f/aab96ee1-e329-40eb-bf55-53c9183b7b92.png",
+        "sha256": "43db1d45c5ac0304ab5ea8654b9549dbca84f1e2c181b010fefffbcdff811bfa",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-24-poe",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 43.7 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/f83443e3-38b7-415b-85cd-e3da1d0c044c/bba29f6c-afe9-42a4-ac58-395955482f91.png",
+        "sha256": "ac8f34bd55fb8df37fffd5019310d3b989b9f56881f8ac2465f18b04c67968e9",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/f83443e3-38b7-415b-85cd-e3da1d0c044c/81168368-2c15-4fe3-875c-a06f6953d136.png",
+        "sha256": "b76c8af2e3b4fdbd5b7483c10fec0f10df503573c209833554f0d00f761a3fca",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-24s",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-24s",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 44 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        4
+      ],
+      [
+        "100G QSFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-24s/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/4aca7985-bf07-4835-b2a2-7f14685f50c1/623cc134-e78c-4d68-88ce-80ac0fc6a289.png",
+        "sha256": "4ab50b43a275af2ab122aea8fd943a9eafe8e9baa4a0d416f706d77044565b8f",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-24s/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/4aca7985-bf07-4835-b2a2-7f14685f50c1/9cbc992b-03a2-4fea-85b0-9f7bb747d5c4.png",
+        "sha256": "56a9282a75ad4274005bba5132f4f009c43d9cd685096662ab979d2a256e5bfa",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-24s-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-24s-poe",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 44 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        4
+      ],
+      [
+        "100G QSFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-24s-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/a8ebdcc3-9603-4387-b3ba-50f242bf55ae/d8ea8667-6b6d-4521-9fe9-e53ff76d8d92.png",
+        "sha256": "3caeee523a6d67597f1189937f15429e409d8575aade8b41c09840e749f0a9e8",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-24s-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/a8ebdcc3-9603-4387-b3ba-50f242bf55ae/9efba066-4adf-422f-9309-74c05d249531.png",
+        "sha256": "91542b71d9e01f3d527d3799f7ad52ca568feff8fcb2846538dd3e35c3a4c83b",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-48-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-48-poe",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 43.7 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        16
+      ],
+      [
+        "10 GbE RJ45",
+        32
+      ],
+      [
+        "25G SFP28",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-48-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c0e18508-feb3-4d93-93d7-2a022815cfac/02e04a05-2205-4242-bce0-fb58a7550488.png",
+        "sha256": "372f872be49a0d00b889a52d6a10ab1833402221aaef57040ef195768ec6a894",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-48-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c0e18508-feb3-4d93-93d7-2a022815cfac/060d8d14-c36d-4758-9d5f-78ef56c1217c.png",
+        "sha256": "d5c4ea67dcb9e0e9e7e0d13e110b03e723aac19e5e88138dfac5a1e61f37b092",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-48s",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-48s",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 44 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "2.5 GbE RJ45",
+        32
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        4
+      ],
+      [
+        "100G QSFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-48s/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c2dcfd86-e80c-4f55-a883-a40112f222d5/6bef7df1-037d-4385-a37d-d5d84f2f5d58.png",
+        "sha256": "182f5b0656e5c95073ddeb0b6754f862eeaa9799125f667497797a48c0d250b7",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-48s/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c2dcfd86-e80c-4f55-a883-a40112f222d5/a60aca83-de0d-46d5-bbff-aff39a9e5f06.png",
+        "sha256": "df53992765b7caae0b03d3a7e068eb73094b118e501eca6b7147dcac7c309d77",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-48s-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-48s-poe",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 44 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "2.5 GbE RJ45",
+        32
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        4
+      ],
+      [
+        "100G QSFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-48s-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/734c4b7d-fd16-43b8-90d6-f2427a0d499d/a0d93930-d595-402b-a3a6-3ecfc823950d.png",
+        "sha256": "8916a8b058865f6e711c793f4f0e887d19cd90a2201614f3fa5364e9c75276c8",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-48s-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/734c4b7d-fd16-43b8-90d6-f2427a0d499d/b1377c65-25a1-4e31-adc5-9617917dfe7c.png",
+        "sha256": "33768b5719d4ef907eae90e1b8f526f9b3f41a059557ccfdbb2a1dcc6b10b1c6",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-aggregation",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-aggregation",
+    "formFactor": "Rack mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 43.7 x 496 mm\n(17.4 x 1.7 x 19.5\")",
+    "portGroups": [
+      [
+        "25G SFP28",
+        48
+      ],
+      [
+        "100G QSFP28",
+        6
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-aggregation/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/82c1c564-0e08-4b27-a7b9-95729cca00bd/3ea48feb-2a2d-427b-ae65-5ffd5f1b6063.png",
+        "sha256": "657b093cb36c041318280dc2e26a17920da454d375332c542c018fce8dbd65f0",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-aggregation/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/82c1c564-0e08-4b27-a7b9-95729cca00bd/0c31f32b-546e-4f68-8e85-4a5ab0b54ca9.png",
+        "sha256": "6f70a7ec852e407e1d6a4bc22a9bbe0356737de1ad31e4a939a144ce4ed96d90",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ecs-core",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/ecs-core",
+    "formFactor": "Rack Mount (1U, Full-Depth)",
+    "manufacturerDimensions": "442.4 x 43.7 x 480 mm\n(17.4 x 1.7 x 18.9\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "100G QSFP28",
+        32
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ecs-core/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2fef9072-e7cd-4e94-82c3-b35ed53e473f/97f0e7d9-3854-4ce5-96dc-62a7e5af8caf.png",
+        "sha256": "644ffd820459d7074a7e9cf904a0faeed79625323f85440492c36ecc49001ad2",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ecs-core/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2fef9072-e7cd-4e94-82c3-b35ed53e473f/de230a6e-37b2-4f2f-88c6-803f90527828.png",
+        "sha256": "2a1fb30b0ca0f559eb61ceb34af47e595a977d849bd45d2acb9dde6c551bf851",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ef-core",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/ef-core",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 400 mm\n(17.4 x 1.7 x 15.8\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        2
+      ],
+      [
+        "10 GbE RJ45",
+        8
+      ],
+      [
+        "25G SFP28",
+        4
+      ],
+      [
+        "100G QSFP28",
+        4
+      ],
+      [
+        "MGMT",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ef-core/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/8f56712e-ed57-48ca-a180-f8fea2d343c3/4d6aeb34-b7c5-42cf-a643-e3792135a530.png",
+        "sha256": "f31cc47dd5d1a657e290c7d54d97447c59086bf16a2fcd3ec351bbc4ef46adbd",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ef-core/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/8f56712e-ed57-48ca-a180-f8fea2d343c3/1160c847-9b03-43e4-8b51-df09c816de60.png",
+        "sha256": "98b5556e8dfb74bf841b08a887b98acc252aa0d4b4bac75ca75113d728a9acff",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "efg",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/efg",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 325 mm\n(17.4 x 1.7 x 12.8\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        2
+      ],
+      [
+        "10G SFP+",
+        2
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/efg/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/65adb8bd-c318-45f9-8b9f-9c15fb025ec2/6f13780b-fc52-4063-86de-cd2d28c2b120.png",
+        "sha256": "097df254c53eae82b28d5922309a5209260d46483b125c6d1f3a899e31a3f751",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/efg/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/65adb8bd-c318-45f9-8b9f-9c15fb025ec2/1552c880-e3b8-4b92-974a-8265c048fe5c.png",
+        "sha256": "3b0ca7ff7121663e634ee06f2949e65caf1aa272f5513e962662f9e54100e91a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "enas",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/enas",
+    "formFactor": "Rack mount (3U)",
+    "manufacturerDimensions": "481.4 x 480 x 132 mm\n(19 x 18.9 x 5.2\")",
+    "portGroups": [
+      [
+        "25G SFP28 (25G/10G/1G)",
+        2
+      ],
+      [
+        "10 GbE RJ45 (10G/5G/2.5G/1G/100M)",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/enas/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/efda1ed7-bb7a-4467-9ad9-168358cf92db/e78495b9-2048-48ee-ae96-d8c200536cb0.png",
+        "sha256": "ac7b26f642ab2bd26ef9dc6ba25763157d6955bfcdb0241eefa2b066c619086c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/enas/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/efda1ed7-bb7a-4467-9ad9-168358cf92db/781d6fe9-78f7-49b5-8afa-e957735c5729.png",
+        "sha256": "0bc268ff020d67fc521e04f9ec58395e02b04fd92f68a1119f7d6680a51cd7b7",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "envr",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/physical-security/envr",
+    "formFactor": "Rack Mount (3U)",
+    "manufacturerDimensions": "481.4 x 480 x 132 mm\n(19 x 18.9 x 5.2\")",
+    "portGroups": [
+      [
+        "10G SFP+ ports",
+        2
+      ],
+      [
+        "10 GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/envr/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/69d591b5-0c1b-4b75-9361-0f3237df94a7/8a712fb0-eac8-4a93-ac55-e21494fae8d5.png",
+        "sha256": "a0fdf17746f23138792147a0aa10fc1ea726daa090ba3d6d553666f1ea51af5d",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/envr/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/69d591b5-0c1b-4b75-9361-0f3237df94a7/2c07d686-3a6f-4547-83ca-485892c4d1db.png",
+        "sha256": "5426c9341d2c6d89c53dc9390c1de81c04708cdb9453980e257e558bcd77819a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "envr-core",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/physical-security/envr-core",
+    "formFactor": "Rack Mount (3U)",
+    "manufacturerDimensions": "481.4 x 550 x 132 mm\n(19 x 21.7 x 5.2\")",
+    "portGroups": [
+      [
+        "25G SFP28 ports (25G/10G/1G)",
+        2
+      ],
+      [
+        "GbE MGMT RJ45 port (1G/100M)",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/envr-core/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/694c1676-ffe5-4c8f-9ccc-c73eb86309c3/60f6515f-6123-4fb0-97e9-4442887d9c06.png",
+        "sha256": "3618ee4fca78d00692728e98136abf0f73ce54e7048a3b3f59deeb5203892904",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/envr-core/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/694c1676-ffe5-4c8f-9ccc-c73eb86309c3/6b5d02d6-e8e4-4218-b595-43eacae9fbf3.png",
+        "sha256": "f1bacd1da9344a7884efc0718544fdce83403dc81989eb0955a69b4d5e796b06",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "uacc-ese-16",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/accessories/uacc-ese-16",
+    "formFactor": "Rack mount (3U)",
+    "manufacturerDimensions": "481.4 x 480 x 132 mm\n(19 x 18.9 x 5.2\")",
+    "portGroups": [],
+    "images": {
+      "front": {
+        "path": "images/uacc-ese-16/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/7b978369-8f27-4053-982f-333797e95627/eff12b0d-271d-4382-b00e-d79f928f4d7d.png",
+        "sha256": "02ee8f1cd1f5ab651a535ab9abe2db0bc07fdc35261be43b21753100e064826e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/uacc-ese-16/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/7b978369-8f27-4053-982f-333797e95627/78053419-0b72-4adb-81aa-2c41e7ecee95.png",
+        "sha256": "964e7151645968a53753f3ce7cb588ed0861fdcfca152ab0cb4b2d9199e208a5",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "uci",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/accessories/uci",
+    "formFactor": "",
+    "manufacturerDimensions": "442.4 x 80 x 43.7 mm (17.4 x 3.1 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/uci/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/994152e4-baf8-4ea1-b8d6-22f9765e98c4/468ecb34-8bac-4090-90d1-e3f15c18a570.png",
+        "sha256": "08527e34e5bc623b302b786c1646408b7f4a9973ed3defaa48eabc25511d948f",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/uci/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/994152e4-baf8-4ea1-b8d6-22f9765e98c4/704a6fab-6f48-4f90-bdca-da168efbd94a.png",
+        "sha256": "7db614810033eebdb0e8f5537df5a9575ecf2073152e5ecfdb959356a71fa40c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "udm-beast",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/udm-beast",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 325 mm\n(17.4 x 1.7 x 12.8\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        2
+      ],
+      [
+        "10 GbE RJ45",
+        8
+      ],
+      [
+        "10G SFP+",
+        2
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/udm-beast/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/352e353d-16e7-45b5-805e-712848145c65/c009c3ff-eab9-42d1-bc70-2690d62675d8.png",
+        "sha256": "fa2980b976f6a600f0a7cb372a27785f4fdf11222c18270b7a332b568434a68e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/udm-beast/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/352e353d-16e7-45b5-805e-712848145c65/bf5f59aa-863b-4974-84ba-a26941ec3124.png",
+        "sha256": "e63ff979ea394914ad57c1bef1eb9a66caa4f83033631bbda06d44c626efaa6c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "udm-pro",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/udm-pro",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 285.6 mm\n(17.4 x 1.7 x 11.2\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        9
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/udm-pro/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/9df27ed4-c4ae-471a-8982-f5b0650da76a/e99b51e5-eaab-45a8-aaab-99792eb4676b.png",
+        "sha256": "22acd1ae874fe5951ed4c738be4efd4cfa4f71b32c02b51755742be66e386bbe",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/udm-pro/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/9df27ed4-c4ae-471a-8982-f5b0650da76a/f30f978c-bdb2-4ef5-a11a-9a82f3dfd8d0.png",
+        "sha256": "3082f65adaaf518f0f0bf04f9d96f3d426baa5ef10725ac62d15ddc27a5c421a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
     "id": "udm-pro-max",
     "verified": "2026-10-12",
     "rackWidthInches": 19,
     "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/udm-pro-max",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 285.6 mm\n(17.4 x 1.7 x 11.2\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        8
+      ],
+      [
+        "2.5 GbE RJ45",
+        1
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
     "images": {
       "front": {
         "path": "images/udm-pro-max/front.png",
         "sourceUrl": "https://cdn.ecomm.ui.com/products/401190d7-6a49-4c2e-bef1-7fe087d2b6b6/c9cbb66b-7e7e-4ced-a4e3-1fa93cad3660.png",
         "sha256": "6bde0bba306869bf3b8a5debcb6263d88094f4eaf41a8980d29ff149518eda6a",
-        "treatment": "Unmodified manufacturer asset"
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
       },
       "rear": {
         "path": "images/udm-pro-max/rear.png",
         "sourceUrl": "https://cdn.ecomm.ui.com/products/401190d7-6a49-4c2e-bef1-7fe087d2b6b6/a65ebecc-eb24-45ee-bfa6-6be9108453d4.png",
         "sha256": "b071b35c27efad18231811b6192b4e7ac96223e5e8bb91d50d67e2c36806b5c1",
-        "treatment": "Unmodified manufacturer asset"
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
       }
     }
   },
   {
-    "id": "usw-pro-max-24-poe",
+    "id": "udm-se",
     "verified": "2026-10-12",
     "rackWidthInches": 19,
-    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-max-24-poe",
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/udm-se",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 285.6 mm\n(17.4 x 1.7 x 11.2\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        8
+      ],
+      [
+        "2.5 GbE RJ45",
+        1
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
     "images": {
       "front": {
-        "path": "images/usw-pro-max-24-poe/front.png",
-        "sourceUrl": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/4abcc76a-18d7-49b7-8ce8-047f318049d2.png",
-        "sha256": "29e949d3cd1cd5c2f33abc58525473b3fed82b7c231944dc5908c5f212826ab4",
-        "treatment": "Unmodified manufacturer asset"
+        "path": "images/udm-se/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1b6fcc08-a6b8-4496-a831-6125a47c412f/07c63c26-afa4-42f0-97e4-89f7b752eaa2.png",
+        "sha256": "1f420f2018e0e2bc8e7458393373af3ebfbc22ff9375611fa5f51e5a022d39aa",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
       },
       "rear": {
-        "path": "images/usw-pro-max-24-poe/rear.png",
-        "sourceUrl": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/6eb797e1-6121-411c-bc27-73c01a1450fd.png",
-        "sha256": "aee2fb8109dc8d7435af302273488b7d5eae2db3837726685965c83819217be8",
-        "treatment": "Unmodified manufacturer asset"
+        "path": "images/udm-se/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1b6fcc08-a6b8-4496-a831-6125a47c412f/ccde85d9-f093-4d3f-91e7-453100da2238.png",
+        "sha256": "4827c4ce0befef955fd3a513e805b66a70f3b4ba1f2c59bc359d589ba9586cfb",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unas-pro",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/unas-pro",
+    "formFactor": "Rack mount (2U)",
+    "manufacturerDimensions": "442.4 x 325 x 87.4 mm \n(17.4 x 12.8 x 3.4\")",
+    "portGroups": [
+      [
+        "10G SFP+ (10G/1G)",
+        1
+      ],
+      [
+        "GbE RJ45 (1G/100M/10M)",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unas-pro/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c73f5f36-f1af-4eb2-bf44-8a9f31eb3e3b/1a9c334b-c568-4893-9ad0-0407dcd55424.png",
+        "sha256": "0aef32450d1ae7548465eef8a88648465146e4a7c9e7cd84de723dd55b7147ff",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unas-pro/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c73f5f36-f1af-4eb2-bf44-8a9f31eb3e3b/9bcf7f0e-0be9-4fcc-bf1b-8c2e5eba787b.png",
+        "sha256": "f440f9a6f30bab15545ca41f09744b699cdb7eb3777018462636072d32f61f6b",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unas-pro-4",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/unas-pro-4",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 400 x 43.7 mm\n(17.4 \u00d7 15.7 \u00d7 1.7\")",
+    "portGroups": [
+      [
+        "10G SFP+ (10G only)",
+        2
+      ],
+      [
+        "GbE RJ45 (1G/100M/10M)",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unas-pro-4/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1e8ea561-a3af-4f50-92b4-b7ef3a37a66a/c9dd044c-0844-44ba-9050-2a7d75652d85.png",
+        "sha256": "37b683157b9b6c55f6658dbe64b4fd69ffdbed7d33275cae40792727a6e024c6",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unas-pro-4/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1e8ea561-a3af-4f50-92b4-b7ef3a37a66a/dcbf3759-b275-4228-bd5c-947c86777767.png",
+        "sha256": "1aac7f48d06e87fcb56a936d72e68d4a6f57bee5976ffd8043d5872325b0068c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unas-pro-8",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/unas-pro-8",
+    "formFactor": "Rack mount (2U)",
+    "manufacturerDimensions": "442.4 x 480 x 87.4 mm\n(17.4 \u00d7 18.9 \u00d7 3.4\")",
+    "portGroups": [
+      [
+        "10G SFP+ (10G Only)",
+        2
+      ],
+      [
+        "10 GbE RJ45 (10G/5G/2.5G/1G/100M)",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unas-pro-8/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c834c44a-84e4-426f-975b-48f0842396bd/85f6e67e-1071-42a9-a5c4-b463a6ff5829.png",
+        "sha256": "37459e76716e187d2ee084c129e4a3fc442416d5b350fdd3e6d8d495f701bd9a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unas-pro-8/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c834c44a-84e4-426f-975b-48f0842396bd/a47e5b06-e8b8-470e-af4b-66a5049b001f.png",
+        "sha256": "3d14aecdf072df0d97dc4c52f7ebef9e5a4501ebad3878cf9e7456e4547932d4",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unvr",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/physical-security/unvr",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 325 x 44 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "10G SFP+ port",
+        1
+      ],
+      [
+        "GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unvr/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/8a3b51c6-d3e9-4ea7-95b3-49a1253c4542/08098f85-d5e3-4db7-8bc8-03146a2ebd5b.png",
+        "sha256": "7d5d71be3a8bc03bee788854ce58ca028cd702124eb9da9e0acd693c0b206494",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unvr/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/8a3b51c6-d3e9-4ea7-95b3-49a1253c4542/80fa2728-abe0-4583-ba3c-c233c8172fe5.png",
+        "sha256": "183e4df0110c0046d832abf8fdfc6bf125d07c2052712456518d0e8edf2eeabd",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unvr-g2",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/physical-security/unvr-g2",
+    "formFactor": "Rack Mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 325 mm \n(17.4 x 1.7 x 12.8\")",
+    "portGroups": [
+      [
+        "10G SFP+ port",
+        1
+      ],
+      [
+        "2.5 GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unvr-g2/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c2788e1f-8bc1-49a6-86b6-0e1b0660a7e5/4f3e8ac0-d8b6-4132-b5b5-7d02caff0998.png",
+        "sha256": "406a7bbcf436d5622cd4e0c5f8d57f8c63c7c26566fae4cf1e227aa673813fbc",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unvr-g2/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c2788e1f-8bc1-49a6-86b6-0e1b0660a7e5/7680d2d4-878f-42f4-ba14-0ac384c7f0f2.png",
+        "sha256": "293a34c9e9b885513080e4b8dc457555b8db92ab42b59afef5cbbde6c6139c1d",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unvr-g2-pro",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/physical-security/unvr-g2-pro",
+    "formFactor": "Rack Mount (2U)",
+    "manufacturerDimensions": "442.4 x 87.4 x 325 mm \n(17.4 x 3.4 x 12.8\")",
+    "portGroups": [
+      [
+        "10G SFP+ port",
+        1
+      ],
+      [
+        "2.5 GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unvr-g2-pro/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1e091642-fb08-4389-ba0c-2362b8bfb644/a726e0b0-f7f2-44cb-ab40-7beb6c40056e.png",
+        "sha256": "ca1579844605a00424a5d6dae1059e3c641b634fb9b1eec8b9f7ca57506cf3a7",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unvr-g2-pro/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1e091642-fb08-4389-ba0c-2362b8bfb644/4e528237-d9f7-4c0b-9c9b-faec610d6da4.png",
+        "sha256": "4a16f557398e55c66bfa7ca451ccfda1313cb76c6a1e6dec2a8ae7bdcd5141f8",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "unvr-pro",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/physical-security/unvr-pro",
+    "formFactor": "Rack mount (2U)",
+    "manufacturerDimensions": "442 x 325 x 87 mm\n(17.4 x 12.8 x 3.4\")",
+    "portGroups": [
+      [
+        "10G SFP+ port",
+        1
+      ],
+      [
+        "GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/unvr-pro/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/5692c483-9bbf-4ad1-a80a-11e29e1adc3e/a1c54e8a-dc48-48e5-8421-4c93abb6b8b7.png",
+        "sha256": "271fe4c864f708bf819a3c3f3efa6ca31ebf8d4470c65a69bdc4a23e323e6894",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/unvr-pro/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/5692c483-9bbf-4ad1-a80a-11e29e1adc3e/e4062836-d111-423a-84f0-90c9d04861ba.png",
+        "sha256": "40ad835ecf53eef5f4e2f783544b78f36d744f58ace04d6bd20a337c4b50ae8d",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ups-2u-pro-us",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/ups-2u-pro-us",
+    "formFactor": "Rack mount (2U)",
+    "manufacturerDimensions": "442.4 x 87.4 x 630 mm\n(17.4 x 3.4 x 24.8\")",
+    "portGroups": [
+      [
+        "100/10 MbE port for network connection",
+        1
+      ],
+      [
+        "GbE ports for surge in/out",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ups-2u-pro-us/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/bd1e065b-9ed7-4753-ac94-b4c0b06bb173/b982e9b6-0466-4662-a782-f74089cd316f.png",
+        "sha256": "85ca165b317f3715366e56590e771f003e1b23156d572a2ece3870b3160736e9",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ups-2u-pro-us/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/bd1e065b-9ed7-4753-ac94-b4c0b06bb173/efb3de3a-397c-4eea-af4e-9bed0820ead4.png",
+        "sha256": "0bda53ec3baf75349f559a3ad78237c5ba82b14855a107235b8edb321a920ead",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "ups-2u-us",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/ups-2u-us",
+    "formFactor": "Rack mount (2U)",
+    "manufacturerDimensions": "442.4 x 300 x 87.4 mm\n(17.4 x 11.8 x 3.4\")",
+    "portGroups": [
+      [
+        "100/10 MbE port for network connection",
+        1
+      ],
+      [
+        "GbE ports for surge in/out",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/ups-2u-us/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1674b854-0811-4d7a-a213-daa25326d903/ff724a0f-6109-455e-b129-03874c28c61d.png",
+        "sha256": "9ff830a14a37ccc74be357013f93e2c21fecd6b7641d7df3ab62b6a151fc864a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/ups-2u-us/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1674b854-0811-4d7a-a213-daa25326d903/5f233013-68d8-45b4-9f9e-02e393c4dd4d.png",
+        "sha256": "6f9d1bb46906a9927b38d52951b215e7c64be2a54fedb9b679f4e07593b7589c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/us-24",
+    "formFactor": "",
+    "manufacturerDimensions": "443 x 221 x 43.7 mm\n(17.4 x 8.7 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/fc8d2e53-536f-4de4-834c-dd945260404c/cc0389cb-6f3b-4ee1-8276-9628d551c3dd.png",
+        "sha256": "671d220ea1e56e0f1d71f050edb168000164ad0f34bba954ed3b851e88d8602d",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/us-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/fc8d2e53-536f-4de4-834c-dd945260404c/47ecefe7-7b1b-445a-8e10-cb6a6cf6fa23.png",
+        "sha256": "6df6a8b916de4b02c558e48b1a99df226ed227a4f8ddcbd0c7b82e92c309020c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-24-250w",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/us-24-250w",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "485 x 285.4 x 43.7 mm \n(19.1 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-24-250w/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/49e30676-ccd4-473c-9905-70625135b17b/c4f768a6-97d4-46a6-97b0-d71a1770e0f3.png",
+        "sha256": "56a5918abf3a571dfa9c2f35bd250b9216a26aaeed45235d9a976a8068be92f1",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/us-24-250w/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/49e30676-ccd4-473c-9905-70625135b17b/4a0dad92-8ffd-4f2c-8e1e-b219ea170941.png",
+        "sha256": "ace2b8f0e402d9cc57edf56fb45b6718f1a71c041eab84ca6abfac5af015d4dd",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-24-500w",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/us-24-500w",
+    "formFactor": "",
+    "manufacturerDimensions": "485 x 285.4 x 43.7 mm \n(19.1 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-24-500w/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/e93dcaf7-659b-45cd-a2a6-02c86a610aa5/bdf020b7-74c5-41e5-80f9-152a97ff8c15.png",
+        "sha256": "6d9ba525bf78cd0c58e59d36bfb3d0a668d3f7ee68e2cf35b3d15db7be6fd811",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/us-24-500w/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/e93dcaf7-659b-45cd-a2a6-02c86a610aa5/1d91bf90-30f9-40d7-a0d4-818a64363127.png",
+        "sha256": "7d61826fb3a5a729a272091360639cd96eefd99c41bcf35003bd06b2baa2a952",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-48",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/us-48",
+    "formFactor": "",
+    "manufacturerDimensions": "443 x 286 x 43 mm\n(17.44 \u00d7 11.26 \u00d7 1.69'')",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "1G SFP",
+        2
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-48/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/82cb04ea-31b6-42d8-99a2-1bb6276aac15/cb794027-a302-4948-8f9f-0f748919eb6f.png",
+        "sha256": "ab8d626213e16aeef5dcee04aca2931d063c778332375d23d3f014533907417c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/us-48/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/82cb04ea-31b6-42d8-99a2-1bb6276aac15/20b27407-6508-4284-8e16-34d9915a6b5b.png",
+        "sha256": "0f271c802338cb62f463a111fad86b0ab9c2b879df76dfe1a9b55d8bb887eb49",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-48-500w",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/us-48-500w",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "485 x 374.6 x 43.7 mm \n(19.09 x 14.75 X 1.72'')",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "1G SFP",
+        2
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-48-500w/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/6f7fec08-d391-4466-947e-72182abcb738/35a7ae39-d987-46b8-a793-757c751c246e.png",
+        "sha256": "fe493286cbc83b27d4fd8a5ba17eecb79e0d4e419396a099e8abf76d89e3d458",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/us-48-500w/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/6f7fec08-d391-4466-947e-72182abcb738/8a34674c-6828-484c-b536-c3fb64197f63.png",
+        "sha256": "40f772cec8395d56de6cb12ca3f1de462251aa8106e06a119022e79f0e91b9cf",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-48-750w",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/us-48-750w",
+    "formFactor": "",
+    "manufacturerDimensions": "485 x 374.6 x 43.7 mm\n(19.09 \u00d7 14.75 \u00d7 1.72'')",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "1G SFP",
+        2
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-48-750w/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1e5e0119-083c-46fb-a303-e2e5be1dabd7/10ca5244-fecc-4d02-bceb-8d9c89421206.png",
+        "sha256": "96d176295c4ed57685e842ef55c700ec27fca3152317df00cea84f407b900c37",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/us-48-750w/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/1e5e0119-083c-46fb-a303-e2e5be1dabd7/d9013dad-3617-49bc-9055-588fff8877d0.png",
+        "sha256": "0d71c0dd3a7560d1255756cc4c11401507ba2e784a03cfe66c13499fdb294002",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usp-pdu-pro",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/usp-pdu-pro",
+    "formFactor": "",
+    "manufacturerDimensions": "442.4 x 87.4 x 106 mm\n(17.4 x 3.4 x 4.2\")",
+    "portGroups": [
+      [
+        "100 MbE RJ45 port",
+        1
+      ],
+      [
+        "GbE RJ45 ports",
+        3
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usp-pdu-pro/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b178b896-3499-4fa3-8c56-ce2822be933f/ab5d7b12-0c2c-4748-85a8-a925bc5b2b80.png",
+        "sha256": "fca978770906f666390b04ef887fa13b0b175e23b311650df877536289da62eb",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usp-pdu-pro/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b178b896-3499-4fa3-8c56-ce2822be933f/a130c37b-086b-4362-bff9-c7260a72eb68.png",
+        "sha256": "d72a7dca390ba41872916ab47d3cc139766b4ec4f86fc045ec8d441206892bfc",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usp-rps",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/integrations/usp-rps",
+    "formFactor": "",
+    "manufacturerDimensions": "442.4 x 325.6 x 43.7 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "GbE RJ45 port",
+        1
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usp-rps/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/3b8eb586-5c9a-4c5d-a60a-b6ed0676f33c/3837eb87-bd8e-4368-b90a-89957395cc7e.png",
+        "sha256": "f9e24028fcc9fde3b1983b8742d825295f42a9b86ac99968123522128b6e0f5b",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usp-rps/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/3b8eb586-5c9a-4c5d-a60a-b6ed0676f33c/50067187-da5b-4dc0-acc8-1b7196d49333.png",
+        "sha256": "434bc083dc53362bf8557bdd7f20b78b75f5323099e6dec577787fd805951757",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-16-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-16-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 200 x 44 mm\n(17.4 x 7.9 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        16
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-16-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/ab04370e-f45d-4651-828c-b290de8df45b/52b4001a-a88f-40a1-b8a5-9c4da4d8501b.png",
+        "sha256": "30495139df74f2616c47da41757308741bb33a77b460da6dbeecd01c16e93f1f",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-16-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/ab04370e-f45d-4651-828c-b290de8df45b/091512c9-778e-45be-aa54-0228b8079d50.png",
+        "sha256": "f2687f978568983cf659a8b4b901277f7ba4e48d27e4fa47a4c0e6ff70c8a272",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-24",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 200 x 44 mm\n(17.4 x 7.9 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/d443e087-efcf-47a1-8465-7fa3e60cf916/509b49ea-cbc6-4ef8-a575-59e127dff7ed.png",
+        "sha256": "77e02d27497af7ddfde5d518b8af5b6110ecb4d2408e22a11cb499d1cfa7a00e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/d443e087-efcf-47a1-8465-7fa3e60cf916/0c197593-cc28-4084-a5ed-6881b98fb2cb.png",
+        "sha256": "394ce9e44beb392d871bc7f4f6ba7d62da7faf194dfa71a6821c8d2782b951f4",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-24-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 200 x 44 mm\n(17.4 x 7.9 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/467359c4-e5c3-487b-ae00-f6b7de29c6fc/fd3c57e8-dd82-4f37-908b-8e95bd4bc184.png",
+        "sha256": "2c93c7e773e8dd2092773d9cb9346dbb40183eea28d814c91a853956c72824eb",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/467359c4-e5c3-487b-ae00-f6b7de29c6fc/4237188c-503a-497a-989e-f8c91c5536f2.png",
+        "sha256": "9487090519fdf026a001fd11443e0b46bba1dae34e7600b979a3691b554b4c9c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-48",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-48",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm\n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "1G SFP",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-48/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/8a649eb8-c497-4240-92ba-a5c7a792c395/72ca8594-377f-4086-8e7c-95bad3559492.png",
+        "sha256": "a4addacbe6e1ea09c13133f6d434e684555c93fed9118ddebeb1395ba957383a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-48/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/8a649eb8-c497-4240-92ba-a5c7a792c395/aafb7cfd-e283-42a9-9f37-37e62c4f7ce4.png",
+        "sha256": "6fa3c004040fe71cfbafd1eab32c8f2a5bd6073a2456561821b7f6db4af0b4fd",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-48-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-48-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm\n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "1G SFP",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-48-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/147e90c2-da47-44ad-ad19-b98e223cb54b/d7570b62-96d1-4c56-8edf-bb5a7c3a4a00.png",
+        "sha256": "9028a159884974a4ecd86e5c5a6fcc28005861ceb3250a266800973e105a4432",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-48-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/147e90c2-da47-44ad-ad19-b98e223cb54b/dd3c728c-baf9-47a5-a655-5e8b04f83087.png",
+        "sha256": "308c02006414c495c8cb411fd9a03b7a6d3c603deee0a9dd4abef71db2f8173f",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
       }
     }
   },
@@ -44,18 +1507,976 @@
     "verified": "2026-10-12",
     "rackWidthInches": 19,
     "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-aggregation",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 120 x 43.7 mm\n(17.4 x 4.7 x 1.7\")",
+    "portGroups": [
+      [
+        "10G SFP+",
+        8
+      ]
+    ],
     "images": {
       "front": {
         "path": "images/usw-aggregation/front.png",
         "sourceUrl": "https://cdn.ecomm.ui.com/products/1c748fb1-b4df-43ef-83e0-d5ed26f9db7c/78dc5054-a468-401c-ac2a-2a00930c96ff.png",
         "sha256": "ed3cce07acab50e802e1ac5b8bd942ecbe87caafc23271a42d37376ae0ee20fd",
-        "treatment": "Unmodified manufacturer asset"
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
       },
       "rear": {
         "path": "images/usw-aggregation/rear.png",
         "sourceUrl": "https://cdn.ecomm.ui.com/products/1c748fb1-b4df-43ef-83e0-d5ed26f9db7c/2aac163e-c604-4e55-9489-c706e60d0bd7.png",
         "sha256": "4dbb4f3a7b6b6de494fd7ff88083bbf517ac1ec4221a1c27dc2fda23321105f3",
-        "treatment": "Unmodified manufacturer asset"
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-enterprise-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-enterprise-24-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 325 x 44 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        12
+      ],
+      [
+        "2.5 GbE RJ45",
+        12
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-enterprise-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/9f693a84-9dcb-452f-889a-faba29ac4b73/bc2a5089-b6e3-42bc-8bd1-49a1fef3827e.png",
+        "sha256": "062340a1de2ffcc90fa586f956e2800951fd11da0ab8388777d6e124c031e0fa",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-enterprise-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/9f693a84-9dcb-452f-889a-faba29ac4b73/5d346523-a8c2-426e-bf50-381b54e2c3f5.png",
+        "sha256": "bc244779686bf43256792168a730a4fd7faa0e280bd8426a3a9a76258518b60e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-enterprise-48-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-enterprise-48-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 400 x 44 mm\n(17.4 x 15.7 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        48
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-enterprise-48-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/81802ee3-ab5d-46f6-b6f7-2abbe2a5968b/43019b4c-d37e-4cb0-9fd3-962aad43c1e6.png",
+        "sha256": "b4a0d8d412ed576ce4db8846767e2edc9b16db56cec5121936d11481ed172065",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-enterprise-48-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/81802ee3-ab5d-46f6-b6f7-2abbe2a5968b/842b4905-a067-4fb2-9591-4e2d1ba9ea4c.png",
+        "sha256": "1cbdb5718b55c7b2e34fca749e2f60ff93ff1c5db69f1e082465a51a7c0f4eaf",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-enterprisexg-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-enterprisexg-24?s=us",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm \n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "10 GbE RJ45",
+        24
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-enterprisexg-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/de04b908-bb34-45dd-834f-9b081429aa07/77183f50-e099-4f79-bc43-ce7be00ec25a.png",
+        "sha256": "009a62e8f0be5f2dc9b3ea4df07af088a39168e42cf28b02d992431200264831",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-enterprisexg-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/de04b908-bb34-45dd-834f-9b081429aa07/7cf19415-3465-4b30-abfc-a2b75f67ab7d.png",
+        "sha256": "6b37fb6e28d141eca5d82807b2beb347023cada4bc76a9860f801a35a2c5e9ec",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-mission-critical",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-mission-critical",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 480 x 44 mm\n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        9
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-mission-critical/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/0a2a7ba1-12c3-4736-a31d-ed9a0e9f44d1/72cd7221-c9d6-4aec-94d6-9df69bdbde09.png",
+        "sha256": "03e0f25082d82102d7cf34208ced2c78bda4abbc2784aa8e78bdbaace4cade8a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-mission-critical/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/0a2a7ba1-12c3-4736-a31d-ed9a0e9f44d1/6929c264-8216-49a3-a3bd-b58af537ec6d.png",
+        "sha256": "ef018cd42faa2efb1e4ea0f2059f9960b9a5a5c4ecb2e996955a88ef31a188fc",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-24",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm \n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2315330e-7a37-4c6b-87df-0743d04e87ca/546e26a6-6db5-431e-aa3c-bab58f000461.png",
+        "sha256": "b6dddd5589bf9bcfe0f3c2e64f36f12da2ae6c4cc8e2e8af7b45449ab6b5415a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2315330e-7a37-4c6b-87df-0743d04e87ca/77fae9e1-25f6-47c4-bb56-9dded8fd34d7.png",
+        "sha256": "f1470d75c4e73ce90a96a3dbf7b054026734784519866b4b090a112ace6b9bfc",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-24-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm \n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        24
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/5b69cdb5-e7ea-44e6-ae16-8714339038fb/ca459cf0-f563-4958-9443-e30ce3bcdfa5.png",
+        "sha256": "33bd85bff8e2afbe117ed6e66105bcdd2d765852a143f243550139f191fc611e",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/5b69cdb5-e7ea-44e6-ae16-8714339038fb/c5a9c6d1-5f6a-4c7d-8471-9f6b13c71aff.png",
+        "sha256": "8ea1cd31bce413a997bb179fd10fa473197cf08b0ab9a3e27630d1c96e403e38",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-48",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-48",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm \n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-48/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/17a1db0a-a705-4ea0-b538-2972ca71615a/9ff10997-647b-4a9a-be52-3b24a2f96ea2.png",
+        "sha256": "85f50a9a1975b992377af091cdb374e0fcc53af756c8bd591960d2b23ac9515d",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-48/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/17a1db0a-a705-4ea0-b538-2972ca71615a/de0ce7eb-c8e0-47af-a736-b03667154ab8.png",
+        "sha256": "46596e8b9ebd40c66d5e8ffea431a52decf5bfe197b4b405f542e9e4d4edc675",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-48-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-48-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 400 x 44 mm\n(17.4 x 15.7 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        48
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-48-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/6e019f0c-26b5-4fdf-b4e1-994abd9ce6e1/4748196a-d2ef-4766-b167-1e2dc9d55620.png",
+        "sha256": "c1a5908d7b9a537a5e5c502f76b68cf86e94786d01d2499d88a78cc924222e4a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-48-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/6e019f0c-26b5-4fdf-b4e1-994abd9ce6e1/2b403319-ea5c-479e-bd46-502f9b9588fc.png",
+        "sha256": "9b73767c2d9886e9d2f57932297eae28b2faf6ea38d4ee24c7d1e225647172f5",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-aggregation",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-aggregation",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 325 x 44 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "10G SFP+",
+        28
+      ],
+      [
+        "25G SFP28",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-aggregation/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/35879d83-6169-4d6b-abf6-d3b98b1e8367/f6f0c75d-378f-4310-81c1-c38d21150ceb.png",
+        "sha256": "53f5861facd0a312594e8de4b72d307f7194dd34b293fe69b35d94dc6aa54359",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-aggregation/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/35879d83-6169-4d6b-abf6-d3b98b1e8367/244117f9-86a3-4eec-8f9a-f7df1ed41c46.png",
+        "sha256": "eb09c97716aa3453e6b99763181174cb757d4255810a969dfbb61d65ba6f8ad5",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-hd-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-hd-24",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 285 x 44 mm \n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        22
+      ],
+      [
+        "10 GbE RJ45",
+        2
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-hd-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/66804bfc-9afd-453c-adbb-7327d8cebe25/c84e3166-fbc6-40ab-8b03-a99a644860e0.png",
+        "sha256": "8c4384cb43d4dd213e44dfd23b34f2ff0152ff9bc313455636ad8cc0761a5a3a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-hd-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/66804bfc-9afd-453c-adbb-7327d8cebe25/1fe35f78-6334-47c8-9350-df7b7fa4662e.png",
+        "sha256": "1bfd917841eafbb029c0d6cd874f5e04df67dc56ab8f269cab8bc27541c28abd",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-hd-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-hd-24-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 400 x 44 mm\n(17.4 x 15.7 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        22
+      ],
+      [
+        "10 GbE RJ45",
+        2
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-hd-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/17d901a5-c99b-4b02-8d3b-8cb7a5da0512/b70c75ef-09a0-48ed-904b-1d77fe507b2b.png",
+        "sha256": "bea7489d816b438cbe7dc8bac369f5f1a0a9b56e3ef8c18417c399df685f17fa",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-hd-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/17d901a5-c99b-4b02-8d3b-8cb7a5da0512/d37d54ef-1e2e-4c53-8c58-9fde372a705b.png",
+        "sha256": "003157868ca0c79675a19a7bd02d3641a99bba2d58a339e8702207b3044a9dad",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-max-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-max-24",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 325 x 44 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        16
+      ],
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-max-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/dd435390-1705-4159-852c-fd210b4e7c17/9a1c9290-17c4-49c5-b795-a282b758b4ef.png",
+        "sha256": "0a58679efd6ee924056041c033ba665bd2c7a9d5929f400a2654b6fb0c0d3e52",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-max-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/dd435390-1705-4159-852c-fd210b4e7c17/c167fd00-7541-43c7-ae91-eafd710e7af5.png",
+        "sha256": "546da1f4407e8b5538bec38a048bebe3225780f60fe8d152f309ca3677a8da78",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-max-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-max-24-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 325 x 44 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        16
+      ],
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-max-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/4abcc76a-18d7-49b7-8ce8-047f318049d2.png",
+        "sha256": "29e949d3cd1cd5c2f33abc58525473b3fed82b7c231944dc5908c5f212826ab4",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-max-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/58922518-88f6-4c75-89c1-f57ba3d8253a/6eb797e1-6121-411c-bc27-73c01a1450fd.png",
+        "sha256": "aee2fb8109dc8d7435af302273488b7d5eae2db3837726685965c83819217be8",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-max-48",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-max-48",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 325 x 44 mm\n(17.4 x 12.8 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        32
+      ],
+      [
+        "2.5 GbE RJ45",
+        16
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-max-48/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/0966f626-63a9-4dc6-b07d-2e0b40e2cead/53a5e461-6a51-4367-8445-40a308801e6b.png",
+        "sha256": "d5060a81617f3aa23225a42a9f4ef2d8d71777fca3c3f3f51f21cda76e420caf",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-max-48/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/0966f626-63a9-4dc6-b07d-2e0b40e2cead/25e944fb-aa74-4673-8c14-c7ab135247a6.png",
+        "sha256": "3cadce5e2394253e8e7fbb2228e18816bdcdb339c81ae8bde4129f4d33ff8c4a",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-max-48-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-max-48-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 400 x 44 mm\n(17.4 x 15.7 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        32
+      ],
+      [
+        "2.5 GbE RJ45",
+        16
+      ],
+      [
+        "10G SFP+",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-max-48-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/51e22689-9b81-4717-beed-fe2c65c57362/4e67c0d8-4641-4555-bc01-c84e3ad7da14.png",
+        "sha256": "61498a0d1b97373a2f8da9524b9d70bc7056ef2ff99f2ae81d8de49124ea2140",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-max-48-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/51e22689-9b81-4717-beed-fe2c65c57362/2211b59f-9a28-46e9-8809-07b7a815a7c6.png",
+        "sha256": "4c22cfdb5cd3d28727af2ea01997e01561831b99868aa8951c3bd4483e12ce43",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-xg-10-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-10-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 285 x 44 mm \n(17.4 x 11.2 x 1.7\")",
+    "portGroups": [
+      [
+        "10 GbE RJ45",
+        10
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-xg-10-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2617380d-b3a8-47c3-802f-fcc22d24e931/f5951c05-aa1e-49d7-93c2-0a0d6cfe4c6d.png",
+        "sha256": "e7aeb7737c900994ee979d8bcbb4ae7fd18e818d2e54a7d670cc24f418a54e35",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-xg-10-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2617380d-b3a8-47c3-802f-fcc22d24e931/ed601db8-d4a9-4e23-a40d-2d2fb34eca2d.png",
+        "sha256": "4af6d1d612d885695e112223066b3602ad631cd8a6227b2a9e2dff5039470682",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-xg-24",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-24",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 480 x 44 mm \n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-xg-24/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/5f2af015-a9fd-4f79-9779-74860c328e75/f723c13f-f379-44bd-ae63-d9dd87e50ae5.png",
+        "sha256": "6a309ab7ae03564c6263286e53b9940871811abb8ef3a40202347157a8dee6c8",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-xg-24/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/5f2af015-a9fd-4f79-9779-74860c328e75/58b0f6a7-f8bb-4768-a2e8-0087aebd027f.png",
+        "sha256": "216d5b0bb677e9957365c7a42f445e9e39bf0362fb0bc4654a90a06d49b1d046",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-xg-24-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-24-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 480 x 44 mm \n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        8
+      ],
+      [
+        "10 GbE RJ45",
+        16
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-xg-24-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b6f03374-2a31-428c-86fb-62b49739c924/23e138df-49ae-4859-be94-f344cf6dfc51.png",
+        "sha256": "87a932bfc68be918a3d46a7f664dcd92f2086d80454e430153e6409136f6907b",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-xg-24-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b6f03374-2a31-428c-86fb-62b49739c924/3bd12efa-b400-474d-b21b-8a5cf3f608d5.png",
+        "sha256": "fbc616383468ea699c8a54a3c1d66b6f854abc29961a067c49d5dcbf4b63bd8c",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-xg-48",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-48",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 480 x 44 mm \n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        16
+      ],
+      [
+        "10 GbE RJ45",
+        32
+      ],
+      [
+        "25G SFP28",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-xg-48/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/3ecbd029-ba8a-4f82-aa5e-0f2902f60576/4353204e-2169-44d0-8deb-bc607cad7d0a.png",
+        "sha256": "82b5e105a3e49545d36e6a2b888237b950da7ca51fb0604158ae681759483cb9",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-xg-48/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/3ecbd029-ba8a-4f82-aa5e-0f2902f60576/0d8922a2-8a33-417f-a7ce-34a336acec03.png",
+        "sha256": "c25afa92a0450d76d0b40c897d0a21eca27d84ff9ddfe839dc0a0dc710781b11",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-xg-48-poe",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-48-poe",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442 x 480 x 44 mm \n(17.4 x 18.9 x 1.7\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        16
+      ],
+      [
+        "10 GbE RJ45",
+        32
+      ],
+      [
+        "25G SFP28",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-xg-48-poe/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b4f97072-47c3-4ea1-96aa-616b94c1ca05/b043e44b-8885-4023-a4a9-68c6d70a40e1.png",
+        "sha256": "f062c7f6fe9dbf5352c1eaacd1caf4f7a8955a2a4dd568fe8a972267a7c2b9d2",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-xg-48-poe/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/b4f97072-47c3-4ea1-96aa-616b94c1ca05/15572eff-0b88-4657-8d86-a328d127d5fb.png",
+        "sha256": "cb6a97e9a7a86056aae693cd2eea0f7ffa16f509887bf3761844e90214ab0c12",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-pro-xg-aggregation",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-pro-xg-aggregation",
+    "formFactor": "Rack Mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 480 mm\n(17.4 x 1.7 x 18.9\")",
+    "portGroups": [
+      [
+        "25G SFP28",
+        32
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-pro-xg-aggregation/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2f42897e-4b8e-4851-af6a-5106211f979e/6f7967d0-22c5-4b11-b70e-cab744959da1.png",
+        "sha256": "13130405171a2a7efaa135f2c18035cbc93c80c9f9e4d2917ffd495291c7360b",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-pro-xg-aggregation/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/2f42897e-4b8e-4851-af6a-5106211f979e/47be90a4-8939-4b6b-b8c7-a42ad0ed17f2.png",
+        "sha256": "8b979a4f3cc6773c91d012ab387d8625ac4ad5986e90c8fe6ea89a1bd0835b99",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-wan",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-wan",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 120 x 43.7 mm\n(17.4 x 4.72 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "10G SFP+",
+        3
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-wan/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/280f3aca-e9e2-4e8e-9fd2-41349966e754/988a37ea-5dc7-406d-88f0-157463c54125.png",
+        "sha256": "670ee37fdab00e451b9b763fc957a16f1a758611b1c657e1dde8e3e1c9287f77",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-wan/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/280f3aca-e9e2-4e8e-9fd2-41349966e754/b4306945-e58e-4d10-b642-fd610962790e.png",
+        "sha256": "a6cab2d4a49198b7c3eadd28e23cda390ad0c3a46030ec3023d949f7a55d6df8",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "usw-wan-rj45",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/switching/usw-wan-rj45",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 120 x 43.7 mm\n(17.4 x 4.72 x 1.7\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        1
+      ],
+      [
+        "10 GbE RJ45",
+        3
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usw-wan-rj45/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c3e77652-db6d-41d5-882c-55a2da9b37f7/1fa31692-8afb-437f-b606-f627402540a7.png",
+        "sha256": "cd36c867ddf09121c607d5cb15a4b5500e2130b62cca4ea85c6bc8a94799eb2b",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/usw-wan-rj45/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/c3e77652-db6d-41d5-882c-55a2da9b37f7/2f1fb880-1d06-43d0-9bfb-405de488ce2b.png",
+        "sha256": "7cd11724502dad04918d526dac03840b20b9dc4aa24052422d827b20546911bb",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "uxg-enterprise",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/accessories/uxg-enterprise",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 325 mm\n(17.4 x 1.7 x 12.8\")",
+    "portGroups": [
+      [
+        "2.5 GbE RJ45",
+        2
+      ],
+      [
+        "10G SFP+",
+        2
+      ],
+      [
+        "25G SFP28",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/uxg-enterprise/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/3dbb7c83-aa76-4110-9ddf-7bfd7d8511cc/f71b45f8-395e-4742-b049-8939b8633218.png",
+        "sha256": "74a27ecb775e2c7327e74e58ae89dd7867ffb51f82322bd4fcf84b7e3311f2ba",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/uxg-enterprise/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/3dbb7c83-aa76-4110-9ddf-7bfd7d8511cc/78dd4504-1e29-4215-bbb0-09d91c7ffe0e.png",
+        "sha256": "7986981832818baafae4c9295110f9b1ab70d84689cafc7493072ddba1f748c6",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "uxg-pro",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://techspecs.ui.com/unifi/cloud-gateways/uxg-pro",
+    "formFactor": "Rack mount (1U)",
+    "manufacturerDimensions": "442.4 x 43.7 x 285.6 mm\n(17.4 x 1.7 x 11.2\")",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        2
+      ],
+      [
+        "10G SFP+",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/uxg-pro/front.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/40f3906a-6663-4c6f-9059-abb517fff6fe/b4b43905-883d-4774-b024-0859e061bb29.png",
+        "sha256": "30de79549976e989fc71642a3e3933b3405e981309a3299a7e5e56baca2ad89f",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      },
+      "rear": {
+        "path": "images/uxg-pro/rear.png",
+        "sourceUrl": "https://cdn.ecomm.ui.com/products/40f3906a-6663-4c6f-9059-abb517fff6fe/50b5b50f-3b03-4e14-b8f8-e15bd609ef07.png",
+        "sha256": "64c93da686ad7390dbad7f7450b1892fa3954c53f0e818c5eb976f37a3939581",
+        "treatment": "Unmodified manufacturer asset; original canvas margins preserved"
+      }
+    }
+  },
+  {
+    "id": "us-16-150w",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://dl.ui.com/qsg/US-16-150W/US-16-150W_EN.html",
+    "portGroups": [
+      [
+        "1 GbE RJ45",
+        16
+      ],
+      [
+        "1G SFP",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-16-150w/front.png",
+        "sourceUrl": "https://dl.ui.com/qsg/US-16-150W/image/US-16-150_Front.png",
+        "sha256": "1b1d970986f76da2cf26c24a01cff64cec42733aef7edae436c55c2f5de5359e",
+        "treatment": "Unmodified manufacturer QSG asset"
+      },
+      "rear": {
+        "path": "images/us-16-150w/rear.png",
+        "sourceUrl": "https://dl.ui.com/qsg/US-16-150W/image/US-16-150_Back.png",
+        "sha256": "eca22f52d91ae5394b4de1ae2194ca2b428e95e62b16bca6f1c902353fa29581",
+        "treatment": "Unmodified manufacturer QSG asset"
+      }
+    }
+  },
+  {
+    "id": "us-16-xg",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://dl.ui.com/qsg/US-16-XG/US-16-XG_EN.html",
+    "portGroups": [
+      [
+        "10G SFP+",
+        12
+      ],
+      [
+        "10 GbE RJ45",
+        4
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/us-16-xg/front.png",
+        "sourceUrl": "https://dl.ui.com/qsg/US-16-XG/image/US-16-XG_Front.png",
+        "sha256": "6805eb0e700846e53963ee9443937b22da02a72f925a0e855e840e5f5e745642",
+        "treatment": "Unmodified manufacturer QSG asset"
+      },
+      "rear": {
+        "path": "images/us-16-xg/rear.png",
+        "sourceUrl": "https://dl.ui.com/qsg/US-16-XG/image/US-16-XG_Back.png",
+        "sha256": "54cf4d7ae7026029303b0a45fc40f3347dc9e1929bb97cdae9ca42b2fd49c04c",
+        "treatment": "Unmodified manufacturer QSG asset"
+      }
+    }
+  },
+  {
+    "id": "usg-pro-4",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://dl.ui.com/qsg/USG-PRO-4/USG-PRO-4_EN.html",
+    "portGroups": [
+      [
+        "1 GbE RJ45 LAN",
+        2
+      ],
+      [
+        "1 GbE RJ45/SFP WAN combo",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/usg-pro-4/front.png",
+        "sourceUrl": "https://dl.ui.com/qsg/USG-PRO-4/image/USG-PRO_Front.png",
+        "sha256": "b51f7bcf180f010b07153fd341c106030bd20b2ff7e790fd0d18136f5adddf6d",
+        "treatment": "Unmodified manufacturer QSG asset"
+      }
+    }
+  },
+  {
+    "id": "uas-xg",
+    "verified": "2026-10-12",
+    "rackWidthInches": 19,
+    "specificationUrl": "https://dl.ui.com/qsg/UAS-XG/UAS-XG_EN.html",
+    "portGroups": [
+      [
+        "10 GbE RJ45",
+        2
+      ]
+    ],
+    "images": {
+      "front": {
+        "path": "images/uas-xg/front.png",
+        "sourceUrl": "https://dl.ui.com/qsg/UAS-XG/image/UAS-PRO_Front_View_Callouts.png",
+        "sha256": "15c2ed5fe3e7f35c730d10cac8983a5a5dde79152dfc1343c2fd50f29ce0d24b",
+        "treatment": "Unmodified manufacturer QSG asset"
+      },
+      "rear": {
+        "path": "images/uas-xg/rear.png",
+        "sourceUrl": "https://dl.ui.com/qsg/UAS-XG/image/UAS-PRO_Back_View_Callouts.png",
+        "sha256": "a27bdb997a79f18197afe3b1a1ba59a31f6f4c5f34336be36438b991ec120542",
+        "treatment": "Unmodified manufacturer QSG asset"
       }
     }
   }

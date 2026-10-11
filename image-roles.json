@@ -1,0 +1,50 @@
+{
+  "cloud-key-enterprise": {
+    "front": 2,
+    "rear": 4
+  },
+  "ecs-24-poe": {
+    "front": 4,
+    "rear": 2
+  },
+  "ecs-48-poe": {
+    "front": 4,
+    "rear": 2
+  },
+  "ecs-24s": {
+    "front": 2,
+    "rear": 4
+  },
+  "ecs-24s-poe": {
+    "front": 2,
+    "rear": 4
+  },
+  "ecs-48s": {
+    "front": 2,
+    "rear": 4
+  },
+  "ecs-48s-poe": {
+    "front": 2,
+    "rear": 4
+  },
+  "envr": {
+    "front": 1,
+    "rear": 2
+  },
+  "envr-core": {
+    "front": 1,
+    "rear": 4
+  },
+  "ups-2u-pro-us": {
+    "front": 1,
+    "rear": 4
+  },
+  "us-24": {
+    "front": 2,
+    "rear": 4
+  },
+  "us-48": {
+    "front": 2,
+    "rear": 4
+  }
+}
