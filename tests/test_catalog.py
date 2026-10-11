@@ -23,6 +23,8 @@ class CatalogTests(unittest.TestCase):
   for key,ports in {'enas':3,'unvr':2,'ups-2u-us':3,'cloud-key-enterprise':3,'ecs-aggregation':54,'ef-core':19,'usw-enterprisexg-24':26,'us-16-xg':16,'usg-pro-4':4,'usp-pdu-pro':20}.items():
    self.assertEqual(self.models[key]['ports'],ports,key)
   ck=self.models['cloud-key-enterprise']
+  self.assertEqual(ck['interfaces'][-1]['speedMbps'],1000)
+  self.assertEqual(self.models['ef-core']['interfaces'][-1]['speedMbps'],1000)
   self.assertEqual((ck['widthMm'],ck['depthMm'],ck['heightMm']),(481.4,787,43.7))
   self.assertEqual(self.models['envr']['height'],3)
   self.assertNotIn('usp-pdu-hd',self.models)

@@ -31,10 +31,10 @@
         },
         {
           "name": "3",
-          "label": "MGMT",
+          "label": "MGMT (1G/100M/10M)",
           "type": "Ethernet",
           "connector": "RJ45",
-          "speedMbps": 100,
+          "speedMbps": 1000.0,
           "ips": []
         }
       ],
@@ -3482,10 +3482,10 @@
         },
         {
           "name": "19",
-          "label": "MGMT",
+          "label": "MGMT (1G/100M/10M)",
           "type": "Ethernet",
           "connector": "RJ45",
-          "speedMbps": 100,
+          "speedMbps": 1000.0,
           "ips": []
         }
       ],
