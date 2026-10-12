@@ -108,7 +108,7 @@ Desktop equipment requiring a rack adapter, rack cabinets, shelves and mounting 
 
 ## Pictures and provenance
 
-`images/<model>/front.png` and `rear.png` are original, unmodified manufacturer assets. Gallery orientations were reviewed individually; `image-roles.json` records exceptions to the usual gallery ordering. Original transparent margins and reflections remain. Legacy quick-start-guide figures can contain annotations. USG-Pro-4 currently has a front image only; its rear view is deliberately unavailable rather than fabricated.
+`images/<model>/front.png` and `rear.png` are original, unmodified manufacturer assets. Gallery orientations were reviewed individually; `image-roles.json` records exceptions to the usual gallery ordering. Original transparent margins and reflections remain in the files. Per-face `ImageFrame` metadata gives Atlas the visible bounds for proportional display. Annotated legacy QSG figures are marked `rackSuitable: false`; Atlas uses its schematic face in rack elevations for these models. Legacy quick-start-guide figures can contain annotations. USG-Pro-4 currently has a front image only; its rear view is deliberately unavailable rather than fabricated.
 
 `sources.json` records official specification URLs, verification dates, image source URLs and SHA-256 checksums. `catalog.json` follows Atlas catalog version 1. No credentials or instance IP addresses are included.
 

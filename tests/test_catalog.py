@@ -29,6 +29,17 @@ class CatalogTests(unittest.TestCase):
   self.assertEqual(self.models['envr']['height'],3)
   self.assertNotIn('usp-pdu-hd',self.models)
   self.assertEqual(self.models['uxg-enterprise']['kind'],'Router')
+ def test_viewports_are_valid(self):
+  for m in self.models.values():
+   for face in ['front','rear']:
+    if face+'Image' not in m:continue
+    f=m[face+'ImageFrame']
+    self.assertTrue(f['width']>0 and f['height']>0)
+    self.assertTrue(f['x']>=0 and f['y']>=0)
+    self.assertTrue(f['x']+f['width']<=f['canvasWidth'])
+    self.assertTrue(f['y']+f['height']<=f['canvasHeight'])
+  self.assertFalse(self.models['us-16-xg']['frontImageFrame']['rackSuitable'])
+  self.assertTrue(self.models['eav-fiber']['frontImageFrame']['rackSuitable'])
  def test_image_integrity(self):
   for key,s in self.sources.items():
    self.assertIn('front',s['images'])
